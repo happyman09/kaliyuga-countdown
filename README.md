@@ -1,3 +1,17 @@
+![Time Till End](https://img.shields.io/badge/Kaliyug-431,998_years_left-ff3b3b?style=for-the-badge&logo=stars)
+![Cosmic Mode](https://img.shields.io/badge/Mode-Cosmic✨-f6c85f?style=for-the-badge&logo=stars)
+![Mythic Aura](https://img.shields.io/badge/Mythic🌌-Active-ff69b4?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-English%2C_Hindi%2C_Tamil-00bfff?style=for-the-badge&logo=translate)
+![Project Age](https://img.shields.io/badge/start-3102_BCE-brightgreen?style=for-the-badge)
+![Apocalypse](https://img.shields.io/badge/KaliYuga-Approaching☠️-ff4500?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/happyman09/kaliyuga-countdown?style=for-the-badge)
+![Repo Created](https://img.shields.io/badge/Created-2025--09--25-blue?style=for-the-badge)
+
+![Kaliyuga Watchers](https://visitor-badge.laobi.icu/badge?page_id=happyman09.kaliyug-countdown&left_color=ff3b3b&right_color=f6c85f&left_text=Kaliyuga%20Visitors)
+
+
+
+
 # Kaliyug Countdown – The Final Breath of Kali Yuga 🌌⏳
 **Kaliyug Countdown – Just a cosmic timer for fun, tracking the mythical end of Kali Yuga. Glow, stars, and a touch of apocalypse vibes! -because why not?**
 
