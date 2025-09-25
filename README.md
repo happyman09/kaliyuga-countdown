@@ -5,6 +5,11 @@
 
 Experience the cosmic passage of time with the Kaliyug Countdown, a visually immersive timer marking the end of the Kali Yuga according to traditional Hindu cosmology. ✨ Featuring glowing cosmic animations 🌟, a dynamic countdown of `years`, `days`, `hours`, `minutes`, and `seconds` ⏰, and multi-language support **(English, Hindi, Tamil)**, See the progression of time in a starfield 🌠, nebula ☁️, and mystical aura overlay 🔮, with responsive panels and glowing countdown numbers. Perfect for enthusiasts of mythology, astronomy, or cosmic-themed interactive experiences, 🌌 Something I made for fun! **-beacause why not?**
 
+---
+
+![kaliyuga_website](assets/kaliyuga_website.png)
+
+---
 ## Features:
 - Real-time countdown to the end of Kaliyug ⏳
 - Multi-language support: English 🇬🇧, Hindi 🇮🇳, Tamil 🇮🇳
