@@ -12,8 +12,8 @@
 
 
 
-# Kaliyug Countdown – The Final Breath of Kali Yuga 🌌⏳
-**Kaliyug Countdown – Just a cosmic timer for fun, tracking the mythical end of Kali Yuga. Glow, stars, and a touch of apocalypse vibes! -because why not?**
+# Kaliyuga Countdown – The Final Breath of Kali Yuga 🌌⏳
+**Kaliyuga Countdown – Just a cosmic timer for fun, tracking the mythical end of Kali Yuga. Glow, stars, and a touch of apocalypse vibes! -because why not?**
 
 **Go, go-** https://happyman09.github.io/kaliyuga-countdown/
 <hr>
