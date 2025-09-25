@@ -1,4 +1,4 @@
-![Time Till End](https://img.shields.io/badge/Kaliyug-431,998_years_left-ff3b3b?style=for-the-badge&logo=stars)
+![Time Till End](https://img.shields.io/badge/Kaliyug-426,873_years_left-ff3b3b?style=for-the-badge&logo=stars)
 ![Cosmic Mode](https://img.shields.io/badge/Mode-Cosmic✨-f6c85f?style=for-the-badge&logo=stars)
 ![Mythic Aura](https://img.shields.io/badge/Mythic🌌-Active-ff69b4?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-English%2C_Hindi%2C_Tamil-00bfff?style=for-the-badge&logo=translate)
@@ -22,7 +22,7 @@ Experience the cosmic passage of time with the Kaliyug Countdown, a visually imm
 
 ---
 
-![kaliyuga_website](assets/kaliyuga_website.png)
+![kaliyuga_website](assets/kaliyuga_video.gif)
 
 ---
 ## Features:
