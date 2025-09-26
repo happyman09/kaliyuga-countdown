@@ -158,7 +158,7 @@ const languages = [
 ];
 
 let langIndex = 0;
-const intervalTime = 7000;
+const intervalTime = 11000;
 
 function updateLanguage(){
   langIndex = (langIndex + 1) % languages.length;
